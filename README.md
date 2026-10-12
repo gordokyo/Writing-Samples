@@ -4,5 +4,5 @@ Please find attached two writing samples in this repository:
 
 **2. OLMA**: A short investment report on Olema Oncology, a pre-revenue biotechnology company.
 
-To view my additional co-authored publications please see link below:
+To view my additional co-authored publications please see link:
 https://scholar.google.com/citations?user=GijII0MAAAAJ&hl=en
